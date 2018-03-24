@@ -7,14 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-	The idea for this app comes from struggling myself to find food at stores that are safe for my daughter to consume. My long-term goal
-is to create something that can be used to quickly identify if an item is safe for someone to consume or not, based on whatever
+
+	The idea for this app comes from struggling myself to find food at stores that are safe for my daughter to consume. My long-term
+goal is to create something that can be used to quickly identify if an item is safe for someone to consume or not, based on whatever
 dietary restrictions they may have. I realize this is an immense task, so for starters I want to create a more inclusive
 library/directory of products that are sold at most stores and are free of common allergens. Later on I would like to expand this
 library to also include products that fit other dietary restrictions, like foods low in sodium, cholesterol, fat. Or even diets
 tailored to athletes/weight-trainers who may also have specific dietary needs.
-	I believe the most effecient way to recognize products and categorize them by ingredients they contain (or don't contain), or
-the nutrition information it may have is to use image recognition when building this tool. I have spent a great amount of time standing in
+
+	I believe the most effecient way to recognize products and categorize them by ingredients they contain (or don't contain), or the 
+nutrition information it may have is to use image recognition when building this tool. I have spent a great amount of time standing in
 aisles of stores and trying to speed-read through ingredients alongside my impatient little side-kick. More times than I'd like to admit I 
 made it all the way home before noticing a small italicized statement mentioning the product may have been manufactured in facility/using 
 equipment that also processes (wheat, soy, milk, oats, rye) etc. It may not be the main focus when I start creating this application, but 
