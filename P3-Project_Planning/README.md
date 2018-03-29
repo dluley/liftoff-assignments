@@ -10,12 +10,12 @@ For this assignment, you'll create some initial plans for your project.
 
 
 - First wireframe image:
-![Wireframe 1](https://github.com/dluley/liftoff-assignments/20180328_195616.jpg)
+![Wireframe 1](https://github.com/dluley/liftoff-assignments/Wireframe1.jpg)
 
   - Second attempt at first wireframe image:
 
 -Second wireframe image:
-![Wireframe 2](https://github.com/dluley/liftoff-assignments/20180328_202056.jpg)
+![Wireframe 2](https://github.com/dluley/liftoff-assignments/Wireframe2.jpg)
 
   - Second attempt at second wireframe image:
   
