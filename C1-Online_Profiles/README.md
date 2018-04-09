@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [Link to LinkedIn](https://www.linkedin.com/in/danielle-luley-70803aaa/)
 
 ### Resume
-[Link to technical resume pdf](liftoff-assignments/TECHNICAL RESUME.docx.pdf)
+[Link to technical resume pdf](https://github.com/dluley/liftoff-assignments/blob/master/TECHNICAL%20RESUME.docx.pdf)
