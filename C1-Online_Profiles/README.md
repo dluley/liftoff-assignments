@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-https://github.com/dluley
+[Link to GitHub](https://github.com/dluley)
 
 ### LinkedIn
-https://www.linkedin.com/in/danielle-luley-70803aaa/
+[Link to LinkedIn](https://www.linkedin.com/in/danielle-luley-70803aaa/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Link to technical resume pdf](liftoff-assignments/TECHNICAL RESUME.docx.pdf)

@@ -21,9 +21,9 @@ For this assignment, you'll create some initial plans for your project.
   
 
 *- Third:
-[link to public Balsamiq Cloud Project!](https://balsamiq.cloud/sg4ck4s/p8htk9n) 
-(better wireframes)*
+[Link to public Balsamiq Cloud Page / Wireframe](https://balsamiq.cloud/sg4ck4s/p8htk9n) 
+better wireframes*
 
 ### Project Tracker
 
-https://trello.com/b/AcsirLLr
+[Trello Link](https://trello.com/b/AcsirLLr)
